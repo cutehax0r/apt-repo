@@ -4,7 +4,8 @@
 
 Add the repository key
 ```sh
-curl -fsSL https://cutehax0r.github.io/apt-repo/key.asc | sudo apt-key add -```
+curl -fsSL https://cutehax0r.github.io/apt-repo/key.asc | sudo apt-key add -
+```
 
 Then setup the repository on your local system
 
