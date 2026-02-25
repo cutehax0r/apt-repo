@@ -1,12 +1,15 @@
+Package: proj
+Version: 0.0.12
 Architecture: arm64
-Architecture: arm64
-Architecture: arm64
-Architecture: arm64
-Architecture: arm64
-Architecture: arm64
-Architecture: arm64
-Architecture: arm64
-Architecture: arm64
-Architecture: arm64
-Architecture: arm64
-Architecture: arm64
+Maintainer: cutehax0r <97819453+cutehax0r@users.noreply.github.com>
+Installed-Size: 7815
+Filename: pool/arm64/proj_0.0.12_linux_arm64.deb
+Size: 3190816
+MD5sum: c7d15dedbfd5fb3f66356a1163c8836d
+SHA1: 316469c05f5cd3960fb08a76b12bdebf4358ed1a
+SHA256: 2d3cdc155b4ad82482e242542650d7e64d7b2557382629717ff2defc6fe33ebb
+Priority: optional
+Homepage: https://github.com/cutehax0r/proj
+Description: A tool for setting up new projects or adding files to existing projects
+License: MIT
+

@@ -1,12 +1,16 @@
+Package: proj
+Version: 0.0.12
 Architecture: amd64
-Architecture: amd64
-Architecture: amd64
-Architecture: amd64
-Architecture: amd64
-Architecture: amd64
-Architecture: amd64
-Architecture: amd64
-Architecture: amd64
-Architecture: amd64
-Architecture: amd64
-Architecture: amd64
+Maintainer: cutehax0r <97819453+cutehax0r@users.noreply.github.com>
+Installed-Size: 8427
+Filename: pool/amd64/proj_0.0.12_linux_amd64.deb
+Size: 3553804
+MD5sum: d3468fabb4a71e4d1ae7a329b58d8b49
+SHA1: f9102ae73b23f78515cc131656ba7c709ad9dff2
+SHA256: 0182c686ebde98913fff951243d23bb9fce90ef158a14bdbebde8b3ac49a0154
+Priority: optional
+Homepage: https://github.com/cutehax0r/proj
+Description: A tool for setting up new projects or adding files to existing projects
+Architecture-Variant: amd64v1
+License: MIT
+
