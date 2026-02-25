@@ -32,6 +32,18 @@ sudo apt install <formula>=<version>
 
 `man apt` or check [Apt's documentation](https://wiki.debian.org/Apt).
 
+## Requirements
+
+If you're developing this on macOS or a non-Debian Linux you're going to run into issues with the
+apt-repository build process. Use a [podman](https://podman-desktop.io/) shell for the APT steps:
+`apt-ftparchive` step. Dpkg can be install via homebrew or run via podman's container.
+
+```sh
+podman machine start
+podman pull debian:stable
+podman run --rm -it -v /Users/you/apt-repo:/repo  -w /repo debian:stable /bin/bash
+```
+
 # Wishlist
 
   * Basic functionality
