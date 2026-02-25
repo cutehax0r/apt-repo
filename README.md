@@ -1,6 +1,8 @@
 # Cutehax0r Apt Repository
 
-## How do I install these formulae?
+Visible at: https://cutehax0r.github.io/apt-repo/
+
+## How do I install these packages?
 
 Add the repository key
 ```sh
