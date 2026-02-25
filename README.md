@@ -21,13 +21,13 @@ then
 
 ```sh
 sudo apt update
-sudo apt install <formula>
+sudo apt install <package>
 ```
 
 or install a specific version with
 
 ```sh
-sudo apt install <formula>=<version>
+sudo apt install <package>=<version>
 ```
 
 ## Documentation
